@@ -1,5 +1,7 @@
 /**
- * Basic Hello World program.
+ * Emir Ferzan
+ * 2022/08/25
+ * A program that prints my major and name in C
  */
 
 int main(int argc, char **argv) {
